@@ -1,0 +1,32 @@
+# This is twsearch 0.1 (C) 2018 Tomas Rokicki.
+# twsearch Megaminx_UFR.tws Megaminx_U_Center.scr
+Created new moves U2 U2' U' F2 F2' F' R2 R2' R'
+State size is about 8.75853 x 10^22 log2 76.2131
+Requiring 16 bytes per entry; 16 from identity.
+Found 4 canonical move states.
+Calculated canonical states in 0.000379086
+Filling table at depth 0 with val 0 saw 1 (1) in 4.937160968780518
+Filling table at depth 1 with val 0 saw 12 (12) in 0.0001058578491210938
+Filling table at depth 2 with val 1 saw 96 (96) in 0.0001380443572998047
+Filling table at depth 3 with val 2 saw 768 (768) in 0.0006220340728759766
+Solving UCenterRotation
+Demoting memory values in 4.140056848526001
+Filling table at depth 4 with val 2 saw 6144 (6144) in 0.005326032638549805
+Demoting memory values in 2.128517866134644
+Filling table at depth 5 with val 2 saw 49152 (49152) in 0.005944967269897461
+Demoting memory values in 1.119390964508057
+Filling table at depth 6 with val 2 saw 392578 (393216) in 0.03104209899902344
+Demoting memory values in 1.034671068191528
+Filling table at depth 7 with val 2 saw 3127898 (3145728) in 0.2026948928833008
+Depth 15 finished in 4.145838975906372
+Demoting memory values in 1.15915584564209
+Filling table at depth 8 with val 2 saw 24911983 (25165824) in 1.620388031005859
+Depth 16 finished in 3.039318084716797
+Depth 17 finished in 26.24638891220093
+Demoting memory values in 1.044093132019043
+Filling table at depth 9 with val 2 saw 197764989 (201326592) in 14.11507081985474
+ U F2 R2 U' F2' U2' F' R2' F2' U F2 R2 F U' F2 U2' R2' F2'
+Found 1 solution at maximum depth 18 lookups 300880690 in 61.27247977256775 rate 4910535.547391164
+Solving UCenterDoubleRotation
+ U F U2 F' R U2 R' U R U2 R' U2 F U2 F'
+Found 1 solution at maximum depth 15 lookups 66890 in 0.006088018417358398 rate 10987154.67241042
